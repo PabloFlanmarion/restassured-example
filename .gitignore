@@ -33,7 +33,7 @@ build/
 .vscode/
 
 ### Eclipse ###
-.maven-wrapper
-mvnw
-mvnw.cmd
-/.mvn
+#.maven-wrapper
+#mvnw
+#mvnw.cmd
+#/.mvn
